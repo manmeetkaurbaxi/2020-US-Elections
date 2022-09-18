@@ -28,3 +28,5 @@ If you use any of the provided material for your work, please cite us as follows
 
 ## Contact information
 If you have any questions or suggestions, do not hesitate to email me at [mbaxi@lakeheadu.ca](mailto:mbaxi@lakeheadu.ca). 😊
+
+**Do ⭐ the repository, if it helped you in anyway.**
